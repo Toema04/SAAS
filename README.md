@@ -1,36 +1,42 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# XORA
 
-## Getting Started
+## 🌐 Live Demo
 
-First, run the development server:
+[Click here to visit XORA](https://saas-kappa-neon.vercel.app/)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Built with Next.js 15** for a fast and optimized experience.
+- **TypeScript Support** for type safety and maintainability.
+- **Tailwind CSS** for highly customizable styling.
+- **Smooth Animations** with Framer Motion (if applicable).
+- **Reusable Components** to speed up development.
+- **Responsive Design** for seamless usage across devices.
+- **SEO-Friendly** to improve search visibility.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🛠 Tech Stack
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Next.js 15** - React Framework for SSR and SSG.
+- **TypeScript** - Static type checking.
+- **Tailwind CSS** - Utility-first CSS framework.
+- **React Scroll** - Smooth scrolling for a better user experience.
+- **React CountUp** - Animated number counting.
+- **React SlideDown** - Smooth dropdown transitions.
 
-## Learn More
+## 📸 App Screenshot
 
-To learn more about Next.js, take a look at the following resources:
+![XORA App Screenshot](![Frame 7@10x](https://github.com/user-attachments/assets/a6d3af42-92e5-4d23-b50d-6fb861100785)
+)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🤝 Contributing
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Contributions are welcome! Feel free to fork the repository and submit a pull request.
 
-## Deploy on Vercel
+## 📝 License
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+This project is licensed under the **MIT Li****[cense](https://github.com/Toema04)**[.](https://github.com/Toema04)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+**Author:** [Toema04](https://github.com/Toema04)
+
