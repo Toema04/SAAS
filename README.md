@@ -1,5 +1,8 @@
 # XORA
 
+📖 About XORA
+XORA is a SaaS platform designed to streamline and optimize digital workflows. Built with modern web technologies, it offers a seamless, high-performance experience with a focus on usability, scalability, and efficiency. Whether you're managing tasks, handling data, or enhancing productivity, XORA provides a responsive and intuitive interface to meet your needs.
+
 ## 🌐 Live Demo
 
 [Click here to visit XORA](https://saas-kappa-neon.vercel.app/)
